@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbertDolkun
+- 👋 Hi, I’m @ADolkun (Albert Dolkun)
 - 👀 I’m interested in Programming and Photography
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me Albertdolkun@berkeley.edu
